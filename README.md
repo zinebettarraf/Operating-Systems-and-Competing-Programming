@@ -1,4 +1,4 @@
-# Operating Systems and Competing Programming 
+# Operating Systems and competitive Programming 
 
 
 
